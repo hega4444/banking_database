@@ -1,0 +1,43 @@
+{
+    "clients": [
+        {
+            "client_id": 1,
+            "name": "Tom Cruise",
+            "dob": "1962-07-03",
+            "balance": 10001,
+            "VIP": true
+        },
+        {
+            "client_id": 2,
+            "name": "Igor",
+            "dob": "1980-04-01",
+            "balance": 13
+        },
+        {
+            "client_id": 3,
+            "name": "Nizar",
+            "dob": "1996-06-27",
+            "balance": 50000000000000.0,
+            "VIP": true
+        },
+        {
+            "client_id": 4,
+            "name": "Hernan",
+            "dob": "1987-10-28",
+            "balance": 10000.0
+        },
+        {
+            "client_id": 5,
+            "name": "Paula",
+            "dob": "1976-10-10",
+            "balance": 34000.0,
+            "VIP": true
+        },
+        {
+            "client_id": 6,
+            "name": "Riox",
+            "dob": "1988-10-01",
+            "balance": 500.0
+        }
+    ]
+}
